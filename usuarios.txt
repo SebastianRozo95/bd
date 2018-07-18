@@ -1,0 +1,13 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE |FECHA NACIMIENTO|CORREO	     		|CONTRASEÑA
+
+|sebas	|1993/07/16      |camynatow@yahoo.es  	|12345
+
+|scrr	|1992/01/16      |camynato1@yahoo.es	|12345
+
+
+|CORREO	      	 	|CONTRASEÑA
+
+|camynatow@yahoo.es|12345
